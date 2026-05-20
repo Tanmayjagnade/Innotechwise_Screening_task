@@ -6,7 +6,7 @@ A Python/FastAPI backend that helps GreenPack Industries comply with India's EPR
 
 ## Demo Video
 
-**Loom:** [ADD YOUR LOOM LINK HERE]
+**Loom:** https://www.loom.com/share/bc956977bcd745b9a81d8dba951343c6
 
 ---
 
