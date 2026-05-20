@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Generated at runtime — do not commit
+chroma_db/
+greenpack.db
+
+# OS
+.DS_Store
+Thumbs.db

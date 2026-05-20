@@ -1,0 +1,24 @@
+# Plastic Waste Management Rules 2016 (Key Provisions)
+
+## Background and Scope
+The Plastic Waste Management Rules, 2016 replaced the earlier Plastic Waste (Management and Handling) Rules, 2011. These rules are notified under the Environment (Protection) Act, 1986. They apply across India and cover the manufacture, use, collection, segregation, processing, and disposal of plastic waste. Both rigid and flexible plastic items are covered. The rules were further amended in 2018 and 2021 to strengthen the EPR framework and introduce phased targets.
+
+## Definitions
+Under these rules, "plastic" means material which contains as an essential ingredient a high polymer and which at some stage in its processing into finished products can be shaped by flow. "Plastic waste" means any plastic discarded after use or after their intended use is over. "Producer" means a person engaged in manufacture of plastic, including raw material for plastic. "Brand owner" means any person or company that sells any commodity under a registered brand label.
+
+## Responsibilities of Producers
+Producers of plastic packaging must:
+1. Take back the plastic waste generated due to their products as per the EPR plan submitted to CPCB.
+2. Work with local bodies and waste management agencies to establish collection points.
+3. Maintain records of plastic quantity sold and quantity taken back for recycling.
+4. Submit annual returns to CPCB by September 30 each year for the preceding financial year (April–March).
+5. Display the recycling symbol with the plastic type code on packaging.
+
+## Responsibilities of Local Bodies
+Urban Local Bodies (ULBs) must ensure door-to-door collection of plastic waste and maintain a register of waste generators. They must ensure that plastic waste is not mixed with other waste streams at source and that it is channelled to registered plastic waste processors.
+
+## Penalties for Non-Compliance
+Violation of these rules can attract penalties under the Environment (Protection) Act, 1986. The CPCB may impose environmental compensation charges up to Rs. 10 lakh per violation per day for large producers. Repeat violations can result in suspension or cancellation of the EPR registration. The producer's products may also be banned from the market until compliance is restored. CPCB may also publish the names of non-compliant producers on its public portal.
+
+## Phase-Out of Single-Use Plastics
+Starting July 1, 2022, India banned the manufacture, import, stocking, distribution, sale, and use of identified single-use plastic items with low utility and high littering potential. These include plastic sticks for balloons, plastic cutlery (forks, spoons, knives), polystyrene cups, and straws. This does not affect multi-use plastic packaging covered by the EPR regime.

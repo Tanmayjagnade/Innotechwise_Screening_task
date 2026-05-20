@@ -1,0 +1,26 @@
+# EPR Compliance Calendar for Plastic Producers
+
+## Overview
+This document outlines the annual compliance calendar that all EPR-registered plastic producers in India must follow. Missing deadlines attracts late fees and, after three consecutive misses, can lead to automatic suspension of the EPR registration.
+
+## Monthly Obligations (April – March)
+By the 15th of each month: Large producers (>500 tonnes/year) must submit the Monthly Declaration of Plastic Introduced (MDPI) on the CPCB portal. The MDPI must break down quantities by plastic category (rigid, flexible, multilayer) and by state of sale.
+
+## Quarterly Obligations
+By July 15 (Q1 April–June): Submit Q1 progress report on EPR certificate procurement and own collection activities. Producers must demonstrate that they are on track to meet the annual target.
+By October 15 (Q2 July–September): Submit Q2 progress report. Producers lagging behind annual targets by more than 20 percentage points at this stage receive a notice to cure within 30 days.
+By January 15 (Q3 October–December): Submit Q3 progress report. Purchase of EPR certificates to bridge any gap must be completed by March 31.
+By April 15 (Q4 January–March): Submit Q4 preliminary reconciliation.
+
+## Annual Obligations
+April 1 – March 31: Financial year for EPR compliance purposes.
+June 30: Deadline to surrender EPR certificates equal to or exceeding the annual target quantity. Certificates not surrendered by this date are forfeited.
+September 30: Annual Return submission deadline. The Annual Return (Form EPR-4) must include: total plastic introduced by category, total certificates surrendered, auditor's certificate confirming accuracy of quantities, and a forward-looking EPR plan for the next financial year.
+
+## Audit and Verification
+CPCB conducts random audits of 10% of registered producers each year. Audits may involve cross-checking declared quantities against GST e-way bills, ERP system exports, and third-party logistics records. Producers with more than 5% variance between declared and audited quantities are placed on the "Watch List" and audited every quarter for the following two years.
+
+## Late Fees
+Monthly declaration late fee: Rs. 500 per day of delay, capped at Rs. 10,000 per declaration.
+Annual return late fee: Rs. 1,000 per day of delay, capped at Rs. 1 lakh.
+Certificate surrender shortfall: Environmental compensation charge of Rs. 15 per kg of shortfall, or twice the market price of EPR certificates, whichever is higher.

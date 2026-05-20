@@ -1,0 +1,32 @@
+# Plastic Packaging Category Definitions and EPR Classification
+
+## Overview
+For EPR compliance purposes, the CPCB classifies plastic packaging into three primary categories. Correct categorisation is critical because each category carries different collection targets, certificate prices, and permissible end-of-life treatment methods. Misclassification is treated as a compliance violation.
+
+## Rigid Plastic
+Definition: Rigid plastic packaging is any plastic packaging that does not deform when subjected to a compressive stress equivalent to its own weight at ambient temperature. Common forms include: PET bottles, HDPE canisters, PP tubs, PS trays, and polycarbonate containers. Items in this category are typically made from a single polymer resin and are identifiable by the resin identification code (RIC) stamped on the base.
+EPR treatment options: Mechanical recycling (preferred), chemical recycling, reuse programmes.
+Typical industries: Beverages, FMCG, pharmaceuticals, personal care.
+
+## Flexible Plastic
+Definition: Flexible plastic packaging is packaging made from films, sheets, or pouches that can be easily bent, folded, or compressed without permanent deformation. Common forms include: LDPE bags, BOPP wrappers, PE sachets, stretch wrap films, and single-polymer laminate pouches.
+EPR treatment options: Mechanical recycling into pellets, energy recovery at registered cement kilns or waste-to-energy plants, reuse as carry bags.
+Typical industries: Food, agriculture, retail, textiles.
+
+## Multilayer Plastic (MLP)
+Definition: Multilayer plastic packaging consists of at least one layer of plastic combined with one or more layers of other materials (plastic, paper, aluminium foil, or other non-plastic materials). The layers are bonded together and cannot be separated at source. Common forms include: flexible food pouches (e.g. chips bags, ketchup sachets), laminated cartons with plastic sealing layers, and aseptic packaging.
+EPR treatment options: Co-processing in cement kilns (most common), pyrolysis at registered facilities, energy recovery. Mechanical recycling is not feasible for MLP.
+Typical industries: Packaged food, dairy, beverages (tetrapak-type), personal care sachets.
+Note: Producers generating more than 10,000 kg/month of MLP are required to submit a quarterly MLP Disposal Plan describing the specific co-processing or energy recovery facility they use.
+
+## Compostable Plastic
+Definition: Plastic packaging that meets IS 17088 (equivalent to EN 13432) for industrial compostability is categorised separately and has a reduced EPR obligation — producers must only certify that the material is sent to an industrial composting facility. Home-compostable claims are not recognised for EPR exemption purposes.
+Note: Compostable plastic must be physically distinguishable (e.g. coloured green) so that waste collectors can separate it from conventional plastic.
+
+## Reporting and Category Codes
+On the CPCB portal and in monthly declarations, producers must use the following category codes:
+- RIG: Rigid plastic packaging
+- FLEX: Flexible plastic packaging
+- MLP: Multilayer plastic packaging
+- COMP: Compostable plastic packaging
+Using an incorrect category code is treated as a data quality violation and requires a correction filing within 7 days.

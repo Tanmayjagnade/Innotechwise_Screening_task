@@ -1,0 +1,20 @@
+# CPCB EPR Guidelines for Plastic Packaging Producers (2022)
+
+## Overview
+The Central Pollution Control Board (CPCB) issued updated EPR (Extended Producer Responsibility) guidelines in 2022 under the Plastic Waste Management Rules. These guidelines apply to all producers, importers, and brand owners (PIBOs) who introduce plastic packaging into the Indian market. The EPR framework makes producers financially and physically responsible for the end-of-life management of the plastic they put into commerce.
+
+## Who Must Register
+Every producer, importer, or brand owner that manufactures or imports plastic packaging material in India must obtain an EPR registration from the CPCB. Registration is mandatory before commencing operations and must be renewed annually. Organizations with annual plastic use below 100 kg are exempt, but all others — regardless of company size — must comply. Foreign companies selling into India through e-commerce channels are also subject to EPR obligations.
+
+## EPR Registration Process
+To register, a producer must submit an application on the CPCB EPR portal (eprplastic.cpcb.gov.in) with the following documents: Certificate of Incorporation, GST registration, list of plastic packaging categories used, and a self-declaration of estimated annual plastic quantity in kilograms. Upon approval, the CPCB issues an EPR registration number (format: CPCB/EPR/YYYY/NNNNNN) which must be quoted in all compliance filings. Registration typically takes 15–30 working days.
+
+## Annual EPR Targets
+Registered producers must meet annual collection and recycling targets. For FY 2024-25, the targets are:
+- Rigid plastic packaging: collect and channel 50% of quantity introduced for recycling or reuse.
+- Flexible plastic packaging: collect and channel 30% of quantity introduced.
+- Multilayer plastic packaging: collect and channel 20% of quantity introduced for co-processing or energy recovery, since recycling options are limited.
+These percentages increase by 5–10 percentage points each year through FY 2028-29.
+
+## Certificates of Recycling
+Producers fulfill EPR targets by either (a) setting up their own collection and recycling systems, (b) contracting registered Plastic Waste Processors (PWPs), or (c) purchasing EPR certificates on the CPCB's central portal. EPR certificates represent 1 kg of plastic collected, processed, or recycled. Certificates must be surrendered to the CPCB by June 30 each year to demonstrate compliance for the preceding financial year.

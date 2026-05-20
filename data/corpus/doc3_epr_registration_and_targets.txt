@@ -1,0 +1,41 @@
+# EPR Registration Requirements and Annual Targets
+
+## Registration Steps
+Step 1: Visit the CPCB EPR portal at eprplastic.cpcb.gov.in and create a user account using the company's CIN and a valid email address.
+Step 2: Complete the Producer Registration Form (Form EPR-1) with details of all plastic packaging categories, estimated annual quantities in kilograms, and the states where products are sold.
+Step 3: Upload supporting documents: Certificate of Incorporation, GST certificate, previous year's annual return (if applicable), and a signed EPR Action Plan describing how the company will meet collection targets.
+Step 4: Pay the applicable registration fee (currently Rs. 5,000 for SMEs and Rs. 25,000 for large enterprises with turnover above Rs. 100 crore).
+Step 5: The CPCB processes the application within 30 working days and issues an EPR Registration Certificate with a unique registration number.
+
+## Annual Target Schedule (FY 2024-25 to FY 2028-29)
+The following minimum collection and channelisation targets apply:
+
+Rigid Plastic Packaging:
+- FY 2024-25: 50%
+- FY 2025-26: 60%
+- FY 2026-27: 70%
+- FY 2027-28: 80%
+- FY 2028-29: 90%
+
+Flexible Plastic Packaging:
+- FY 2024-25: 30%
+- FY 2025-26: 40%
+- FY 2026-27: 50%
+- FY 2027-28: 60%
+- FY 2028-29: 70%
+
+Multilayer Plastic Packaging (MLP):
+- FY 2024-25: 20%
+- FY 2025-26: 25%
+- FY 2026-27: 30%
+- FY 2027-28: 35%
+- FY 2028-29: 40%
+
+## EPR Certificate Procurement
+Producers who cannot meet targets through own collection must purchase EPR certificates from registered plastic waste processors (PWPs) or from other producers with surplus certificates. The CPCB portal provides a marketplace for certificate trading. Certificate prices fluctuate based on supply and demand; the CPCB sets a floor price to prevent under-valuation. In FY 2024-25, floor prices are:
+- Rigid plastic: Rs. 3 per kg
+- Flexible plastic: Rs. 5 per kg
+- Multilayer plastic: Rs. 7 per kg (higher due to limited recycling infrastructure)
+
+## Monthly Declaration Requirement
+Since April 2025, large producers (annual plastic use > 500 tonnes) are required to submit monthly declarations of plastic quantity introduced into the market. These declarations must be submitted by the 15th of the following month. Monthly declarations feed into the annual reconciliation that is due by September 30. Discrepancies of more than 5% between declared and verified quantities trigger a compliance audit by the CPCB regional office.
